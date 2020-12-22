@@ -1,0 +1,6 @@
+framework module HBPageControl {
+  umbrella header "HBPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

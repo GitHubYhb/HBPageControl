@@ -1,0 +1,6 @@
+framework module Pods_HBPageControl_Example {
+  umbrella header "Pods-HBPageControl_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
