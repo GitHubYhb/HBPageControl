@@ -2,6 +2,9 @@ iOS14 更新也有一段时间了，在iOS14以前，很多人都通过重写`UI
 但是在iOS14到来时，就都不好使了。
 由于公司项目之前也是用的重写，现在亦不可用，在使用原生`UIPageControl`样式先顶着用了一段时间，最近业务上的需求总算是结束了，空闲时间就自己撸了一个`HBPageControl`，也算是提供一种思路给大家。可以根据各自的业务要求做不同的样式。
 样式如下。
+
+
+
 ![图像.gif](https://upload-images.jianshu.io/upload_images/2395731-3852915c6fd726ef.gif?imageMogr2/auto-orient/strip)
 
 ## 安装
